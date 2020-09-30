@@ -19,5 +19,6 @@ A web interface which allows customers to browse and purchase films online.
 
 The database has been removed from the project, however this can be easily recreated and added to the /includes directory named 'db.php'. 
 
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
